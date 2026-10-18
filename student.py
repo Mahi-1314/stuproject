@@ -1,1 +1,2 @@
-printf("welcome to stu management sysytem")
+print("welcome to student management system")
+print("1. Add Student")
